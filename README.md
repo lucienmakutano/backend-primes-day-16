@@ -1,7 +1,7 @@
 # Day 16 of 30daysofcode
 
 ## endpoint
-[my-site](https://backend-primes-day-16.herokuapp.com/primes)
+`https://backend-primes-day-16.herokuapp.com/primes`
 ## usage
 the response to be returned will be in the bellow format
 ```json
